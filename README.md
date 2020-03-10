@@ -29,9 +29,9 @@
 
 ## Idea
 
-- Prediction of Audience with Big Data Analysis
+- Predicting the number of viewers with Big Data Analysis
 
-- Deficit Improvement for [C&B Multiplex, Inc.](http://m.cgv.co.kr/WebAPP/TheaterV4/TheaterDetail.aspx?tc=0207)
+- Improvement in the deficit for [C&B Multiplex, Inc.](http://m.cgv.co.kr/WebAPP/TheaterV4/TheaterDetail.aspx?tc=0207)
 
 ## Model Function
 
