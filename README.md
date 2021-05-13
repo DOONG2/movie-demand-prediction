@@ -41,8 +41,8 @@
 
 ## Data
 
-- All movie datas in Korea
-- Naver review Datas
+- All movie data in Korea
+- Naver review Data
 
 ## Stack
 
